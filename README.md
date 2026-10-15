@@ -50,7 +50,7 @@ Instead of asking what items you want to add to a cart, BlinkZo asks: **"What ar
 ## 📱 App Screenshots
 
 <div align="center">
-  <img src="assets/binkzoapp.png" alt="BlinkZo App Screens — Contextual Home, Occasion Planner & Event Timeline, Split Together" width="100%" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <img src="binkzoapp.png" alt="BlinkZo App Screens — Contextual Home, Occasion Planner & Event Timeline, Split Together" width="100%" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
 </div>
 
 <br />
